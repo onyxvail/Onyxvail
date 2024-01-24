@@ -1,4 +1,4 @@
-# 💫 About Me:
+---
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
  Master Jedi code Alchemist 🎲🌌<br>Greetings, intergalactic summoners! 🚀 I'm Onyxvail,  a Jedi Code Acolyte in the Realm of Software Mastery, navigating the intricate dungeons of code . I wield chmoded scrolls, master the arcane syntax, and engage in epic battles against bugs, striving for coding enlightenment.<br><br>## 🌌 About Me<br><br>🏹 Currently embroiled in an epic quest against syntax errors at [Alx-SE/Frontend].<br>🚀 Journey through my galaxies at [REPOSITORIES].<br>📬 Sending a Holocron message to [ons.hfi@gmail.com]? May the Forces be with you, Always & Forever!<br><br>## 🕊️ Let's Join Forces!<br><br>Embarking on a Software Engineering long campaign? Consider me your co-pilot. Reach out for quests in [Frontend / Backend / DevOps].<br><br>## 🌠 So Get in Touch, Young Padawan!<br><br>
