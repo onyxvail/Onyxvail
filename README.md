@@ -18,3 +18,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Onyxvail&icon=6&color=10)](https://visitcount.itsvg.in)
+
+<div>
+ ![Snake animation](https://github.com/onyxvail/onyxvail/blob/output/github-contribution-grid-snake.svg)
+ </div>
