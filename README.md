@@ -1,4 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
+<!--- A N I M A T E D   T E X T --->
+
+<h1 align="center">  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=435&height=50&lines=Greetings+Summoners!;"/>
+  </a>
+</h1>
+
 # 💫 About Me:
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
