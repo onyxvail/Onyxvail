@@ -24,5 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=Onyxvail&icon=6&color=10)](https://visitcount.itsvg.in)
 
 <div>
- ![Snake animation](https://github.com/onyxvail/onyxvail/blob/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
  </div>
