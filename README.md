@@ -16,7 +16,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Onyxvail&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 [![](https://visitcount.itsvg.in/api?id=Onyxvail&icon=6&color=10)](https://visitcount.itsvg.in)
 
 <div>
