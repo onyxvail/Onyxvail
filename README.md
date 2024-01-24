@@ -3,14 +3,14 @@
 
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=435&height=50&lines=Greetings+Summoners!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=435&height=50&lines=Greetings,+intergalactic+ summoners!;"/>
   </a>
 </h1>
 
 # 💫 About Me:
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
- Master Jedi code Alchemist 🎲🌌<br>Greetings, intergalactic summoners! 🚀 I'm Onyxvail,  a Jedi Code Acolyte in the Realm of Software Mastery, navigating the intricate dungeons of code . I wield chmoded scrolls, master the arcane syntax, and engage in epic battles against bugs, striving for coding enlightenment.<br><be> 
+ Master Jedi code Alchemist 🎲🌌<br>I'm Onyxvail,  a Jedi Code Acolyte in the Realm of Software Mastery, navigating the intricate dungeons of code . I wield chmoded scrolls, master the arcane syntax, and engage in epic battles against bugs, striving for coding enlightenment.<br><be> 
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /><br><br>🏹 Currently embroiled in an epic quest against syntax errors at [Alx-SE/Frontend].<br>🚀 Journey through my galaxies at [REPOSITORIES].<br>📬 Sending a Holocron message to [ons.hfi@gmail.com]? May the Forces be with you, Always & Forever!<br><br>## 🕊️ Let's Join Forces!<br><br>Embarking on a Software Engineering long campaign? Consider me your co-pilot. Reach out for quests in [Frontend / Backend / DevOps].<br><br>## 🌠 So Get in Touch, Young Padawan!<br><br>
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yamihashira_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Onshafi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Onyxvail) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Vyleyna) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Onyxvail) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AzgedaSeya) 
